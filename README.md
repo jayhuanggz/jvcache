@@ -1,4 +1,4 @@
-jvcache is a simple vertx based library for you to have a local cache like ehcahe, and distributed cache like redis in sync.  It has built in ehcache and redis implementations, though you can extend to support other caching framework of your choice.  It was written back in 2016. 
+jvcache is a simple vertx based library keep local cache like ehcahe, and distributed cache like redis in sync.  It has built in ehcache and redis implementations, though you can extend to support other caching framework of your choice.  It was written back in 2016. 
 
 
 
