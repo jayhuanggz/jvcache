@@ -23,7 +23,7 @@ Cache cache = cacheManager.getCache("");
 
 <b>CacheProvider</b> - Provider of a specific cache implementation. It has built in <b>EhCacheCacheProvider</b> and <b>RedisCacheProvider</b>, you can extend to use other cache provider by implementing this class
 
-<b>CacheManager</b> - A top level class that wraps everything underneath and provides an api for the user to retrieving caches
+<b>CacheManager</b> - A top level class that wraps everything underneath and provides apis for managing caches.
 
 
 
